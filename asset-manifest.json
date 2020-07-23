@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sinudas.github.io/deploy-react/static/css/main.3b20f63f.chunk.css",
-    "main.js": "/sinudas.github.io/deploy-react/static/js/main.6e07a76e.chunk.js",
-    "main.js.map": "/sinudas.github.io/deploy-react/static/js/main.6e07a76e.chunk.js.map",
-    "runtime-main.js": "/sinudas.github.io/deploy-react/static/js/runtime-main.c6c753a6.js",
-    "runtime-main.js.map": "/sinudas.github.io/deploy-react/static/js/runtime-main.c6c753a6.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/sinudas.github.io/deploy-react/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b804388d.chunk.js": "/sinudas.github.io/deploy-react/static/js/2.b804388d.chunk.js",
-    "static/js/2.b804388d.chunk.js.map": "/sinudas.github.io/deploy-react/static/js/2.b804388d.chunk.js.map",
-    "index.html": "/sinudas.github.io/deploy-react/index.html",
-    "precache-manifest.bfcbdc0258349a0d6269e104ff3f7d41.js": "/sinudas.github.io/deploy-react/precache-manifest.bfcbdc0258349a0d6269e104ff3f7d41.js",
-    "service-worker.js": "/sinudas.github.io/deploy-react/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/sinudas.github.io/deploy-react/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3b20f63f.chunk.css.map": "/sinudas.github.io/deploy-react/static/css/main.3b20f63f.chunk.css.map",
-    "static/js/2.b804388d.chunk.js.LICENSE.txt": "/sinudas.github.io/deploy-react/static/js/2.b804388d.chunk.js.LICENSE.txt"
+    "main.css": "/SinuDas.github.io/deploy-react/static/css/main.3b20f63f.chunk.css",
+    "main.js": "/SinuDas.github.io/deploy-react/static/js/main.307da082.chunk.js",
+    "main.js.map": "/SinuDas.github.io/deploy-react/static/js/main.307da082.chunk.js.map",
+    "runtime-main.js": "/SinuDas.github.io/deploy-react/static/js/runtime-main.f507e7bf.js",
+    "runtime-main.js.map": "/SinuDas.github.io/deploy-react/static/js/runtime-main.f507e7bf.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/SinuDas.github.io/deploy-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b804388d.chunk.js": "/SinuDas.github.io/deploy-react/static/js/2.b804388d.chunk.js",
+    "static/js/2.b804388d.chunk.js.map": "/SinuDas.github.io/deploy-react/static/js/2.b804388d.chunk.js.map",
+    "index.html": "/SinuDas.github.io/deploy-react/index.html",
+    "precache-manifest.f10fb3ae16cc0bafdd42acf1668d7cef.js": "/SinuDas.github.io/deploy-react/precache-manifest.f10fb3ae16cc0bafdd42acf1668d7cef.js",
+    "service-worker.js": "/SinuDas.github.io/deploy-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/SinuDas.github.io/deploy-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3b20f63f.chunk.css.map": "/SinuDas.github.io/deploy-react/static/css/main.3b20f63f.chunk.css.map",
+    "static/js/2.b804388d.chunk.js.LICENSE.txt": "/SinuDas.github.io/deploy-react/static/js/2.b804388d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6c753a6.js",
+    "static/js/runtime-main.f507e7bf.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.b804388d.chunk.js",
     "static/css/main.3b20f63f.chunk.css",
-    "static/js/main.6e07a76e.chunk.js"
+    "static/js/main.307da082.chunk.js"
   ]
 }
