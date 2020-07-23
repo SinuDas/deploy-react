@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SinuDas/deploy-react/static/css/main.3b20f63f.chunk.css",
+    "main.js": "/SinuDas/deploy-react/static/js/main.56520209.chunk.js",
+    "main.js.map": "/SinuDas/deploy-react/static/js/main.56520209.chunk.js.map",
+    "runtime-main.js": "/SinuDas/deploy-react/static/js/runtime-main.fa3aea17.js",
+    "runtime-main.js.map": "/SinuDas/deploy-react/static/js/runtime-main.fa3aea17.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/SinuDas/deploy-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b804388d.chunk.js": "/SinuDas/deploy-react/static/js/2.b804388d.chunk.js",
+    "static/js/2.b804388d.chunk.js.map": "/SinuDas/deploy-react/static/js/2.b804388d.chunk.js.map",
+    "index.html": "/SinuDas/deploy-react/index.html",
+    "precache-manifest.a25748391dd9799184196a2699552c37.js": "/SinuDas/deploy-react/precache-manifest.a25748391dd9799184196a2699552c37.js",
+    "service-worker.js": "/SinuDas/deploy-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/SinuDas/deploy-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3b20f63f.chunk.css.map": "/SinuDas/deploy-react/static/css/main.3b20f63f.chunk.css.map",
+    "static/js/2.b804388d.chunk.js.LICENSE.txt": "/SinuDas/deploy-react/static/js/2.b804388d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa3aea17.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b804388d.chunk.js",
+    "static/css/main.3b20f63f.chunk.css",
+    "static/js/main.56520209.chunk.js"
+  ]
+}
